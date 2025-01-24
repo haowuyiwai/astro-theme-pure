@@ -6,7 +6,7 @@ description: 'Test page for any purpose'
 tags:
   - Test
 language: '中文'
-draft: true
+draft: false
 ---
 
 
