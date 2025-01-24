@@ -1,8 +1,12 @@
 ---
-layout: '@/layouts/DocsLayout.astro'
-
-title: 'Shiki Code'
-description: 'Some mmthods using shiki code'
+title: 'Test Page2'
+publishDate: '2025-01-03'
+updatedDate: '2024-12-10'
+description: 'Test page for any purpose'
+tags:
+  - Test
+language: '中文'
+draft: true
 ---
 
 
